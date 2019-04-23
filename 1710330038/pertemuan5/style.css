@@ -1,0 +1,37 @@
+* {
+	color: green;
+	font-family: serif;
+}
+	h2{
+			font-size: 30px;
+			color: green;
+			text-align: center;
+			padding: 30px;
+			margin: 40px;
+		}
+
+		.coding {
+			background-color: grey;
+			font-family: "Courier New", monospace;
+		}
+		
+		.ungu {
+			color: purple;
+		}
+
+		.biru {
+			color: blue;
+		}
+
+		.judul1 {
+			color: red;
+		}
+
+		.judul2 {
+			color: yellow;
+		}
+
+		.italic {
+			font-style: italic;
+			border: 2px solid red;
+		}
